@@ -1,0 +1,19 @@
+{
+  "name": "engage-ed",
+  "version": "1.0.0",
+  "description": "edTech platform",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demetri65/engage-ed.git"
+  },
+  "author": "Demetri Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demetri65/engage-ed/issues"
+  },
+  "homepage": "https://github.com/Demetri65/engage-ed#readme"
+}
